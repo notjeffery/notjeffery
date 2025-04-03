@@ -1,7 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Jeffery!
+<h2>👨‍💻 Professional Foundations Projects:</h2>
+
+- <b>Website Wireframes</b>
+- <b>Learning (JavaScript, C++, AWS, and Machine Learning Components)</b>
+  -
+  -
+
+
+
 
 <!--
-**notjeffery/notjeffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
