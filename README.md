@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jeffery!
-<h2>👨‍💻 Software Developer in training:</h2>
+<h2>👨‍💻 Junior Web Developer:</h2>
 
 - <b>Learning (JavaScript, CSS, HTML, and Machine Learning Components)</b>
   -
