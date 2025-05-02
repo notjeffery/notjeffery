@@ -1,7 +1,6 @@
 <h1>Hi, I'm Jeffery!
 <h2>👨‍💻 Software Developer in training:</h2>
 
-- <b>Website Wireframes</b>
 - <b>Learning (JavaScript, CSS, HTML, and Machine Learning Components)</b>
   -
   -
