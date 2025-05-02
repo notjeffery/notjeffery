@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jeffery!
-<h2>👨‍💻 Professional Foundations Projects:</h2>
+<h2>👨‍💻 Software Developer in training:</h2>
 
 - <b>Website Wireframes</b>
-- <b>Learning (JavaScript, C++, AWS, and Machine Learning Components)</b>
+- <b>Learning (JavaScript, CSS, HTML, and Machine Learning Components)</b>
   -
   -
 
